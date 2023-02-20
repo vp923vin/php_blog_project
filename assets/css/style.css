@@ -1,0 +1,180 @@
+/* 
+*    Css menu For Navigation  
+*/
+
+/*
+*
+*    1 -  body          css
+*    2 -  header   Page css
+*    3 -  footer   Page css  
+*    4 -  signIn   Page css
+*    5 -  singUp   Page css
+*    6 -  home     page css
+*    7 -  about    page css
+*    8 -  blog     Page css
+*    9 -  contact  Page css
+*    10 - career   page css
+*    11 - services page css
+*    12 - Responsive    css
+*
+*/
+
+/****************************************************/
+
+/* Body Css */
+
+
+/* ending Body Css  */
+
+
+/***************************************************/
+
+/* header Css */
+
+/* Ending header Css */
+
+/****************************************************/
+/* Footer Css */
+
+.fb-icon-link{
+    background-color: rgb(27, 27, 161) ;
+    color: white;
+    padding: 6px 10px 6px 10px;
+    border-radius: 30px;
+}
+.yt-icon-link{
+    background-color: #FF0000 ;
+    color: white;
+    padding: 8px 7px 8px 10px;
+    border-radius: 30px;
+}
+.whatsapp-icon-link{
+    background-color: #25D366 ;
+    color: white;
+    padding: 7px 7px 7px 10px;
+    border-radius: 30px;
+}
+.skype-icon-link{
+    background-color: rgb(27, 27, 161) ;
+    color: white;
+    padding: 7px 7px 7px 10px;
+    border-radius: 30px;
+}
+.twitter-icon-link{
+    background-color: #1DA1F2 ;
+    color: white;
+    padding: 7px 6px 7px 10px;
+    border-radius: 30px;
+}
+.insta-icon-link{
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);   
+    color: white;
+    padding: 7px 11px 7px 11px;
+    border-radius: 30px;
+}
+
+/* Ending Footer Css */
+
+/***************************************************/
+
+
+
+/* signIn Page */
+.signin-form-main-div{
+    margin:  80px 200px 80px 200px;
+    padding: 30px;
+    border: 1px solid #5c8da8;
+    box-shadow: 1px 1px 5px 3px #5c8da8;
+}
+.signin-form-main-div .btn-color{
+    background-color: #177db9;
+    color:aliceblue;
+}
+
+
+
+
+/* ending signIn Page */
+
+/***************************************************/
+
+
+
+
+/* signUp page  */
+
+.signup-form-section{
+    margin:  80px 150px 80px 150px;
+    padding: 30px;
+    border: 1px solid #5c8da8;
+    box-shadow: 1px 1px 5px 3px #5c8da8;
+}
+.signup-form-main-div .btn-color{
+    background-color: #177db9;
+    color:aliceblue;
+}
+/* ending signUp page  */
+
+/***************************************************/
+
+
+
+/* home page  */
+
+/* ending home page  */
+
+/***************************************************/
+
+
+
+/* about page  */
+
+/* ending about page  */
+
+/***************************************************/
+
+
+
+
+/* blog page  */
+
+/* ending blog page  */
+
+/***************************************************/
+
+
+
+
+/* contact page  */
+
+/* ending contact page  */
+
+/***************************************************/
+
+
+
+/* career page  */
+
+/* ending career page  */
+
+/***************************************************/
+
+
+
+
+
+/* services page  */
+
+/* ending services page  */
+
+/***************************************************/
+
+
+
+
+/* Responsive Css   */
+
+/* ending Responsive Css   */
+
+/***************************************************/
